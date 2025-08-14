@@ -1,0 +1,5 @@
+#Ignore all the .env files
+*.env
+
+#ignore the database files
+*.sqlite
